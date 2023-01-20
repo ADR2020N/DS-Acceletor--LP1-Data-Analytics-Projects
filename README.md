@@ -71,6 +71,7 @@ After cleaning we used matplot lib to visualize our findings and present them us
 * Feel free to contact team leads with any questions or if you are interested in contributing!
 
 ##Artical
+
 The company’s data are growing every day. The incoming of data collection, processing, measurement, and analysis technologies has reset the way business is done. Its capabilities have opened frontiers from innovation to productivity and competition. Moreover, these technologies are available at a much cheaper cost, making data a growing torrent flowing into every area of the global economy.
 Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.”- Geoffrey Moore, management consultant and author of Crossing the Chasm
 Basically, it's the data science practitioner roles have more variety and depth. 
