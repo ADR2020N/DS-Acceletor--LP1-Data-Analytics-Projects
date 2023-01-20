@@ -64,7 +64,7 @@ After cleaning we used matplot lib to visualize our findings and present them us
 |---------|-----------------|
 |[Maryanne Muchai](https://github.com/muchaimaryanne])| @muchaimaryanne       |
 |[Erick Mullah Oduol Bugah](https://github.com/[github handle]) |        |
-|[Adrien Nkurikiyumukiza](https://github.com/Adrien Nkurikiyumukiza)| @ADR2020N    |
+|[Adrien Nkurikiyumukiza](https://github.com/Adrien Nkurikiyumukiza)| @ADR2020N    | LinkedIn https://www.linkedin.com/in/nkurikiyumukiza-adrien-26b85618a/
 
 ## Contact
 
